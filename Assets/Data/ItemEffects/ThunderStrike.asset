@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85c4f4fc16496504abae1527e8353732, type: 3}
+  m_Name: ThunderStrike
+  m_EditorClassIdentifier: 
+  effectDescription: "Summon powerfull thunder \nstrike on hit"
+  thunderStrikePref: {fileID: 6126455340347414314, guid: dc53a1563fa61664c9cb86ba76a96fb6, type: 3}
